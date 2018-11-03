@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Using Single Table Inheritance  (STI) with Active Record on Ruby On Rails
 
-Things you may want to cover:
+It's a simple Table Inheritance example.
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Original article [Usando Single Table Inheritance — STI com Active Record no Rails](https://medium.com/v%C3%ADdeos-de-ti/usando-single-table-inheritance-sti-com-active-record-no-rails-2fd2eb21485e)
